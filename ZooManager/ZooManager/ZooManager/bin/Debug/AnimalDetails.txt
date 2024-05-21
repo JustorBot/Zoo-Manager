@@ -1,0 +1,65 @@
+Species: Feline, Name: Lion, Age: 3, Health Status: Good, Food: Deer, Water: 2 Litre
+Species: Feline, Name: Lion, Age: 6, Health Status: Good, Food: Meat, Water: 2Litre, Movable: Yes, Location: South West, Diet: Carnivore, Sleep Times: 7am to 6pm, Zoo Time: 2 years, Cost: R100000
+Species: Cat, Name: Lion, Age: 13, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 231312123, Name: 1312, Age: 123, Health Status: 13, Food: 1231, Water: 1232, Movable: 213123, Location: 12312, Diet: 12321321, Sleep Times: 12312, Zoo Time: 12312, Cost: 123123
+Species: sfdfs, Name: sdfsdfds, Age: 345, Health Status: dgfdg, Food: fgdfg, Water: sdfsdfsdf, Movable: sdfsd, Location: fdsfdsf, Diet: dfsf, Sleep Times: sfsdf, Zoo Time: sfdsf, Cost: 3234
+Species: 34345, Name: 4543534, Age: 5345, Health Status: 4543, Food: 5345345, Water: 345, Movable: 34534, Location: 4354, Diet: 34, Sleep Times: 5, Zoo Time: 345345, Cost: 34543
+Species: 32443, Name: 32432, Age: 423, Health Status: 234, Food: 3243, Water: 234, Movable: 2432, Location: 2343, Diet: 3244, Sleep Times: 234, Zoo Time: 234, Cost: 324
+Species: 3243, Name: 234234, Age: 32, Health Status: 234, Food: 234, Water: 324324, Movable: 234324, Location: 32432, Diet: 234, Sleep Times: 324, Zoo Time: 34, Cost: 2343
+Species: 345534, Name: 3454334, Age: 345534, Health Status: 34543, Food: 3453443, Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: , Age: 43534, Health Status: , Food: , Water: , Movable: , Location: 435534, Diet: 34534, Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: , Age: 5345345, Health Status: , Food: , Water: , Movable: , Location: , Diet: 345435, Sleep Times: , Zoo Time: , Cost: 
+Species: 34324, Name: , Age: 234324, Health Status: , Food: , Water: , Movable: , Location: , Diet: 324324, Sleep Times: , Zoo Time: , Cost: 
+Species: Poes, Name: , Age: 435, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: 45656, Age: 54656, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: 123213123, Age: 12312321, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: , Age: 1233123123, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: , Age: 12321321, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 1232, Name: , Age: 123, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 324324, Name: , Age: 23, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: 23432, Age: 324324, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 2312, Name: 123, Age: 123213, Health Status: , Food: , Water: , Movable: , Location: 321, Diet: , Sleep Times: 12312, Zoo Time: 1223112, Cost: 3123
+Species: , Name: , Age: 25435, Health Status: 534543534, Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: 44346, Age: 36346, Health Status: 436436436, Food: , Water: , Movable: , Location: , Diet: , Sleep Times: 6346, Zoo Time: , Cost: 
+Species: 4535, Name: 1, Age: 23432, Health Status: 32423423, Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 23432, Name: 34, Age: 234, Health Status: , Food: , Water: , Movable: , Location: , Diet: 234324, Sleep Times: 32432432, Zoo Time: , Cost: 
+Species: Lion, Name: Lion, Age: 45, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Poes, Name: Poes, Age: 1, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 5654, Name: 4565, Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 564, Name: 56, Age: 56, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: , Name: , Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 5465, Name: 45645, Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 324, Name: 2342, Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 23423, Name: 23423, Age: 234, Health Status: , Food: , Water: , Movable: , Location: 234234, Diet: , Sleep Times: 234234, Zoo Time: , Cost: 
+Species: 123123, Name: 213213, Age: 123123, Health Status: 213213, Food: 123213, Water: 123, Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: donkey, Name: donkey, Age: 5, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Donkey, Name: Donkey, Age: 5, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: donkey, Name: donkey, Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: donkey, Name: donkey, Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Donkey, Name: Raccon, Age: 12, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Donkey, Name: Raccoon, Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Donkey, Name: Raccoon, Age: 12, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: donkey, Name: donkey, Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: donkey, Name: donkey, Age: 12, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 3234, Name: 34534534, Age: 345345, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: fgfgdf, Name: dfgfdgdfg, Age: 345345, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 5646, Name: 54654, Age: 546546, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 456546, Name: 456546, Age: 6546, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 345345, Name: 345345, Age: 34534, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 36768, Name: 76867, Age: 867, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 098000, Name: 8908978, Age: 1234, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: rghfghfgh, Name: hfghfg, Age: 43, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 12, Name: 12, Age: -10, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 12, Name: 2, Age: 0, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 324, Name: 234, Age: 100, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: dfg, Name: dfg, Age: 567, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 342424234, Name: 324, Age: 234, Health Status: 234, Food: 234, Water: 324, Movable: 324, Location: 324, Diet: 4, Sleep Times: 432, Zoo Time: 24, Cost: 3
+Species: 234, Name: 234, Age: 23, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Snake, Name: Snake, Age: 12, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Snake, Name: snake, Age: 12, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Snake, Name: Snake, Age: 12, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Snake, Name: Snake, Age: 12, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: Snake, Name: Snake, Age: 12, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 346, Name: 3465, Age: 346, Health Status: 346, Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
+Species: 3456, Name: 3465, Age: 46, Health Status: 3456, Food: 456, Water: , Movable: , Location: , Diet: 436, Sleep Times: 456, Zoo Time: , Cost: 
+Species: Snake, Name: snake, Age: 4, Health Status: , Food: , Water: , Movable: , Location: , Diet: , Sleep Times: , Zoo Time: , Cost: 
